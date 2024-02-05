@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.facebook.com/thehiep65",
+      "permanent": true
+    }
+  ]
+}
